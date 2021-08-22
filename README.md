@@ -4,4 +4,8 @@ Solutions of [Learn Python the Right Way](https://learnpythontherightway.com/).
 ## Content
 - [ ] Chapter 1: The way of the program
 - [ ] Chapter 2: Variables, expressions and statements
-- [ ] Chapter 3: [Hello, little turtles](./chap03)
+- [ ] [Chapter 3: Hello, little turtles](./chap03)
+- [ ] [Chapter 4: Functions](./chap04)
+- [ ] Chapter 5: Conditionals
+- [X] [Chapter 6: Fruitful functions](./chap06)
+- [X] [Chapter 7: Iteration](./chap07)
