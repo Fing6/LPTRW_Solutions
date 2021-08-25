@@ -9,3 +9,4 @@ Solutions of [Learn Python the Right Way](https://learnpythontherightway.com/).
 - [ ] Chapter 5: Conditionals
 - [X] [Chapter 6: Fruitful functions](./chap06)
 - [X] [Chapter 7: Iteration](./chap07)
+- [X] [Chapter 8: Strings](./chap08)
