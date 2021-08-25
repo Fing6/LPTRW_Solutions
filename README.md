@@ -3,6 +3,7 @@ Solutions of [Learn Python the Right Way](https://learnpythontherightway.com/).
 
 ## Content
 - [ ] Chapter 1: The way of the program
+  - The exercises in Chapter 1 are too easy, just ignore.
 - [ ] Chapter 2: Variables, expressions and statements
 - [ ] [Chapter 3: Hello, little turtles](./chap03)
 - [ ] [Chapter 4: Functions](./chap04)
