@@ -11,4 +11,6 @@ Solutions of [Learn Python the Right Way](https://learnpythontherightway.com/).
 - [X] [Chapter 7: Iteration](./chap07)
 - [X] [Chapter 8: Strings](./chap08)
 - [ ] Chapter 9: Tuples
-- [X] [Chapter 10: Event handling](./chap10)
+- [x] [Chapter 10: Event handling](./chap10)
+- [X] [Chapter 11: Lists](./chap11)
+
